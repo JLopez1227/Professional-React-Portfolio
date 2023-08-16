@@ -3,7 +3,7 @@ import React from "react";
 export default function About() {
   return (
     <div>
-      <p>
+      <p className='text'>
         <h1>Synopsis of Me🪞</h1> Currently I'm a Junior Developer with little
         experince frankly. My past jobs and education had nothing to do with
         coding. However, I do have ambition to learn and gain more experience. I
@@ -18,7 +18,7 @@ export default function About() {
         better myself not only at writing code, also at bettering myself as a
         person. I want to continue to learn and grow.
 
-        <h3>Pros ✅:</h3>
+        <h3 className='h3'>Pros ✅:</h3>
         <li>Hard Working.</li>
         <li>Willingness to learn.</li>
         <li>Proficient when tasks are understood.</li>
@@ -26,17 +26,17 @@ export default function About() {
         <li>Motivated</li>
         <li>Basic understanding of HTML, CSS, JavaScript, and GitHub.</li>
 
-        <h3>Cons ❌:</h3>
+        <h3 className='h3'>Cons ❌:</h3>
         <li>Lack of experience.</li>
 
-        <h3>Hobbies 🏃:</h3>
+        <h3 className='h3'>Hobbies 🏃:</h3>
         <li>Love hitting the gym.</li>
         <li>Love animals.</li>
         <li>Enjoys walks casual walks and also walks through nature.</li>
         <li>Love watching sports specifically, soccer and boxing. </li>
         <li>Love food and sleep.</li>
 
-        <h3>Plans for the future 📝:</h3>
+        <h3 className='h3'>Plans for the future 📝:</h3>
         <li>
           I have one year of college education at the University of Houston. I
           plan to enroll at Dallas College in the forseeable future in hopes of

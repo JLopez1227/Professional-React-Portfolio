@@ -1,0 +1,52 @@
+.header {
+    text-align: center;
+    font-family: Raleway;
+}
+
+.footer {
+    text-align: center;
+    font-family: Raleway;
+    border-top: solid navy;
+}
+
+.nav-item {
+    font-family: Raleway;
+    text-align: center;
+    
+}
+
+.nav-link {
+    justify-content: space-between;
+}
+
+.background {
+    background-color: white;
+    color: blue;
+}
+
+.text {
+    font-family: Raleway;
+    font-weight: bolder;
+    text-align: center;
+    background-color: rgb(24, 24, 92);
+    color: white;
+}
+
+.h1{
+    font-family: Roboto Condensed;
+    text-align: center;
+    font-weight: bold;
+    border-bottom: solid;
+    margin: 25%;
+}
+
+.h3{
+    border-bottom: solid;
+    margin: 25%;
+    font-weight: bolder;
+    text-align: center;
+    font-family: Raleway;
+}
+
+
+

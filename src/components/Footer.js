@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Footer() {
   return (
-    <div>
+    <div className='footer'>
       <a href="https://github.com/JLopez1227">
         <button type="button" class="btn btn-success">
           GitHub

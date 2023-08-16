@@ -2,10 +2,10 @@ import React from "react";
 
 export default function Resume() {
   return (
-    <div>
-      <h1>Experience 🧑‍💼</h1>
+    <div className='text'>
+      <h1 >Experience 🧑‍💼</h1>
       <p>
-        <h3>Position: Cook 👨‍🍳</h3>
+        <h3 className='h3'>Position: Cook 👨‍🍳</h3>
         <li>Company: Chuck E. Cheese</li>
         <li>
           Responsibilites: In charge of making food and maintaing the kitchen.
@@ -16,7 +16,7 @@ export default function Resume() {
         </li>
       </p>
 
-      <h3>Position: Cook 👨‍🍳</h3>
+      <h3 className='h3'>Position: Cook 👨‍🍳</h3>
       <p>
         <li>Company: Ojedas</li>
         <li>
@@ -30,7 +30,7 @@ export default function Resume() {
         </li>
       </p>
 
-      <h3>Position: Flat Roller 🛞</h3>
+      <h3 className='h3'>Position: Flat Roller 🛞</h3>
       <p>
         <li>Company: Quanex Building Products</li>
         <li>
@@ -47,7 +47,7 @@ export default function Resume() {
         </li>
       </p>
 
-      <h1>Education 🏫</h1>
+      <h1 className='h1'>Education 🏫</h1>
       <p>
         <li>Duncanville High School, Duncanvile — Diploma</li>
         <li>
