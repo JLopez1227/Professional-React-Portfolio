@@ -3,7 +3,7 @@ import React from "react";
 export default function Resume() {
   return (
     <div className='text'>
-      <h1 >Experience 🧑‍💼</h1>
+      <h1 className="h1-top" >Experience 🧑‍💼</h1>
       <p>
         <h3 className='h3'>Position: Cook 👨‍🍳</h3>
         <li>Company: Chuck E. Cheese</li>
@@ -47,7 +47,7 @@ export default function Resume() {
         </li>
       </p>
 
-      <h1 className='h1'>Education 🏫</h1>
+      <h1 className='h1-top'>Education 🏫</h1>
       <p>
         <li>Duncanville High School, Duncanvile — Diploma</li>
         <li>

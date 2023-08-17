@@ -4,7 +4,7 @@ export default function About() {
   return (
     <div>
       <p className='text'>
-        <h1>Synopsis of Me🪞</h1> Currently I'm a Junior Developer with little
+        <h1 className="h1-top">Synopsis of Me🪞</h1> Currently I'm a Junior Developer with little
         experince frankly. My past jobs and education had nothing to do with
         coding. However, I do have ambition to learn and gain more experience. I
         completed the Southern Methodist University Full-Stack Web Development
@@ -36,17 +36,17 @@ export default function About() {
         <li>Love watching sports specifically, soccer and boxing. </li>
         <li>Love food and sleep.</li>
 
-        <h3 className='h3'>Plans for the future 📝:</h3>
-        <li>
-          I have one year of college education at the University of Houston. I
+        <h1 className='h1-top'>Plans for the Future 📝</h1>
+        <p>
+        — I have one year of college education at the University of Houston. I
           plan to enroll at Dallas College in the forseeable future in hopes of
           completing an Associates Degree to further add to my qualifications.
-        </li>
-        <li>
-          I want to become profecient at writing and understanding code. My plan
+        </p>
+        <p>
+        — I want to become profecient at writing and understanding code. My plan
           to achieve this goal is to watch the recordings of my coding bootcamp
           at SMU, take well-written notes, and practice writing my own code.
-        </li>
+        </p>
       </p>
     </div>
   );

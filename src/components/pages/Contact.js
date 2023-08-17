@@ -8,14 +8,14 @@ export default function Contact() {
     <input type="name" class="form-control" id="exampleFormControlInput1" placeholder="Enter your name"/>
   </div>
    <div class="mb-3">
-   <label for="exampleFormControlInput1" class="form-label">Email address</label>
+   <label  for="exampleFormControlInput1" class="form-label">Email address</label>
    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com"/>
  </div>
  <div class="mb-3">
   <label for="exampleFormControlTextarea1" class="form-label">Message</label>
   <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
 </div>
-<div><button type="button" class="btn btn-primary">Submit</button></div>
+<div className="submitDiv"><button type="button" class="btn btn-dark">Submit</button></div>
  </div>
   );
 }
