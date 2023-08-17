@@ -1,0 +1,95 @@
+.header {
+    text-align: center;
+    font-family: Raleway;
+    font-weight: bold;
+    border-bottom: double #212529;
+}
+
+.footer {
+    text-align: center;
+    font-family: Raleway;
+    border-top: solid #212529;
+}
+
+.nav-item {
+    font-family: Raleway;
+    text-align: center;
+    
+}
+
+.nav-link {
+    justify-content: space-between;
+    color:#212529
+}
+
+.background {
+    background-color: white;
+    color: #212529;
+}
+
+.text {
+    font-family: Roboto Condensed;
+    text-align: center;
+    background-color: white;
+    color: #212529;
+}
+
+.h1-top{
+    text-align: center;
+    color: white;
+    background-color: #212529;
+    font-family: Raleway;
+
+}
+
+.h3{
+    border-bottom: solid;
+    margin: 25%;
+    font-weight: bolder;
+    text-align: center;
+    font-family: Raleway;
+}
+
+.btn{
+    background-color:#212529;
+    color: white;
+    font-family: Raleway;
+
+}
+
+.submitDiv{
+    font-family: Raleway;
+}
+
+.btn:hover{
+    transition-duration: 0.4s;
+    background-color: white;
+    color: #212529
+}
+
+.link{
+    color: #212529;
+    font-family: Raleway;
+}
+
+.port-text{
+    font-family: Roboto Condensed;
+    text-align: center;
+}
+
+.form-label{
+    text-align: center;
+    color: white;
+    background-color: #212529;
+    font-family: Roboto Condensed;
+    font-size: 1.5rem;
+}
+
+.mb-3 {
+    background-color: #212529;
+    text-align: center;
+}
+
+
+
+
